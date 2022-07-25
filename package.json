@@ -1,0 +1,26 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hp0844182/my-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hp0844182/my-blog/issues"
+  },
+  "homepage": "https://github.com/hp0844182/my-blog#readme",
+  "dependencies": {
+    "vite": "^3.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
